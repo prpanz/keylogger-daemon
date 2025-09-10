@@ -1,7 +1,7 @@
 # KEYLOGGER-DAEMON
 A simple daemon that logs keyboard inputs to a database for personal/local use.
 
-## 📋 Предварительные требования
+## 📋Requirements 
 - Python 3.13.5
 - Linux (Debian/Ubuntu/Arch)
 - sqlite3
